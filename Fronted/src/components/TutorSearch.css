@@ -1,0 +1,29 @@
+
+.tutor-search-container {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  h2 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.1em;
+    padding: 10px 20px;
+  }
+  
+  .list-group-item strong {
+    font-size: 1.2em;
+  }
+  
